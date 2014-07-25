@@ -41,4 +41,4 @@ For padded datetime stamp
 * [medium.com/@sogko](https://medium.com/@sogko)
 
 ## License
-Copyright (c) 2014 Hafiz Ismail. This software is licensed under the [MIT License](https://github.com/sogko/node-ckan-crawler/raw/master/LICENSE).
+Copyright (c) 2014 Hafiz Ismail. This software is licensed under the [MIT License](https://github.com/sogko/node-contextual-logger/raw/master/LICENSE).
